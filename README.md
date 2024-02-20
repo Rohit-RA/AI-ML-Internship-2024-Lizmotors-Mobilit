@@ -22,5 +22,5 @@ To improve the accuracy and reliability of the generated solutions, it's recomme
 
 ## Author
 
-ROHIT ADALINGE
+ROHIT
 
